@@ -27,7 +27,7 @@
 
 `axios: For accomplish requests http more easily` 
 
-`stitches: For create styled componentes in nextjs, to possibilite to also disable javascript to mantain stylization`
+`styled-components: Criar componentes estilizados`
 
 ## Statistics about most languages useds in this project
 
